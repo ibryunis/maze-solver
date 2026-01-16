@@ -1,6 +1,6 @@
 # 🤖 Autonomous Maze-Solving Robot
 
-An autonomous robot car built with Raspberry Pi Pico that navigates complex mazes using ultrasonic sensors. Developed as part of the Autonomous Systems module at Saxion University of Applied Sciences.
+An autonomous robot car built with Raspberry Pi Pico that navigates complex mazes using ultrasonic sensors. Developed as part of the Autonomous Systems module at Saxion.
 
 ## Overview
 
