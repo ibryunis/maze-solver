@@ -9,6 +9,7 @@ This robot autonomously navigates through mazes without any human intervention. 
 ## The Robot
 
 ![Autonomous Maze-Solving Robot](robot.jpg)
+
 *The assembled robot with Raspberry Pi Pico, ultrasonic sensors, and motor drivers*
 
 ## Features
