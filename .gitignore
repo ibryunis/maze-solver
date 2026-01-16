@@ -1,0 +1,34 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.elf
+*.bin
+*.hex
+*.uf2
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Debug files
+*.dSYM/
+*.su
+
+# Dependencies
+*.d
+
+# Pico SDK
+pico-sdk/
