@@ -6,6 +6,11 @@ An autonomous robot car built with Raspberry Pi Pico that navigates complex maze
 
 This robot autonomously navigates through mazes without any human intervention. It uses ultrasonic sensors to detect walls, makes intelligent turning decisions, and successfully completes maze challenges including finding the treasure chamber and returning to the start.
 
+## The Robot
+
+![Autonomous Maze-Solving Robot](robot.jpg)
+*The assembled robot with Raspberry Pi Pico, ultrasonic sensors, and motor drivers*
+
 ## Features
 
 - **Autonomous Navigation** - Drives forward, backward, and laterally without human control
