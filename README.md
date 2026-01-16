@@ -109,14 +109,14 @@ MazeRacers-Sensors/
 ## Team
 
 **Team 35**
-- Alnur Suleimenov
-- Yaroslav Mitev
-- Yunis Ibrahimov
-- Abdihamid Mohamad Hashi
-- Thijs Kaarls
+- Alnur 
+- Yaroslav 
+- Yunis 
+- Abdihamid
+- Thijs 
 
 **Project Details**
-- Institution: Saxion University of Applied Sciences, Enschede
+- Institution: Saxion, Enschede
 - Program: Applied Computer Science (Year 1)
 - Period: April 2024 - May 2024
 - Course: Autonomous Systems Module
